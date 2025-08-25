@@ -4,7 +4,11 @@
 
 # 数据说明
 本实验使用了三个数据集，其中北京百鸟集与UrbanSound8K泛化数据集为公共数据集。
-北京百鸟集下载地址为：https://data.baai.ac.cn/datadetail，
+北京百鸟集下载地址为：https://data.baai.ac.cn/datadetail
+
 UrbanSound8K泛化数据集下载地址为：https://zenodo.org/records/401395
-自建数据集所使用的鸟声数据均来自于Xeno-Canto网站，地址为：https://xeno-canto.org。由于数据过大无法上传至Github，如有需要联系作者。
+
+自建数据集所使用的鸟声数据均来自于Xeno-Canto网站，地址为：https://xeno-canto.org
+
+由于数据过大无法上传至Github，如有需要联系作者。
 
