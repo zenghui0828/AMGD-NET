@@ -12,5 +12,5 @@ UrbanSound8K泛化数据集下载地址为：https://zenodo.org/records/401395
 
 自建数据集所使用的鸟声数据均来自于Xeno-Canto网站，地址为：https://xeno-canto.org
 
-由于数据过大无法上传至Github，如有需要联系作者。
+由于数据过大无法上传至Github，如有需要联系作者:zh1324520575@gmail.com。
 
